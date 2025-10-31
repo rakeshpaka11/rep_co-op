@@ -1,0 +1,9 @@
+Network path of Development Environment:
+
+\\DESKTOP-5P4G20G\Users\DELL\OneDrive\Desktop\Power BI\CooP Project\Multi Customer DWH-Tabular Cube Data.xlsx
+
+Network path of Test Environment:
+
+
+Network path of Prod Environment:
+
